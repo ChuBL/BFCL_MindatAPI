@@ -1,10 +1,7 @@
-# Gorilla: Large Language Model Connected with Massive APIs
+# BFCL MindatAPI
 
-<div align="center">
-  <img src="https://github.com/ShishirPatil/gorilla/blob/gh-pages/assets/img/logo.png" width="50%" height="50%">
-</div>
-
-<div align="center">
+This is a customized version of [original-repo-name](https://github.com/ShishirPatil/gorilla/) 
+with support for Mindat API testing.
   
 [![Arxiv](https://img.shields.io/badge/Gorilla_Paper-2305.15334-<COLOR>.svg?style=flat-square)](https://arxiv.org/abs/2305.15334) [![Discord](https://img.shields.io/discord/1111172801899012102?label=Discord&logo=discord&logoColor=green&style=flat-square)](https://discord.gg/grXXvj9Whz) [![Gorilla Website](https://img.shields.io/badge/Website-gorilla.cs.berkeley.edu-blue?style=flat-square)](https://gorilla.cs.berkeley.edu/) [![Gorilla Blog](https://img.shields.io/badge/Blog-gorilla.cs.berkeley.edu/blog.html-blue?style=flat-square)](https://gorilla.cs.berkeley.edu/blog.html) [![Hugging Face](https://img.shields.io/badge/🤗-gorilla--llm-yellow.svg?style=flat-square)](https://huggingface.co/gorilla-llm)
 

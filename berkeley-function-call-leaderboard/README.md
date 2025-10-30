@@ -1,7 +1,4 @@
-# BFCL MindatAPI
-
-This is a customized version of [original-repo-name](https://github.com/ShishirPatil/gorilla/) 
-with support for Mindat API testing.
+# Berkeley Function Calling Leaderboard (BFCL)
 
 ## Table of Contents
 
