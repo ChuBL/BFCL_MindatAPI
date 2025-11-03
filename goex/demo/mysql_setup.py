@@ -8,7 +8,7 @@ import sys
 from pathlib import Path
 from dotenv import load_dotenv
 
-load_dotenv()
+load_dotenv(override=True)()
 
 if __name__ == "__main__":
     # Check if the database name was provided as a command-line argument

@@ -28,7 +28,7 @@ from threading import Thread, Event
 
 log_setup()
 
-load_dotenv()  # take environment variables from .env.
+load_dotenv(override=True)()  # take environment variables from .env.
 
 logger = logging.getLogger("raft")
 

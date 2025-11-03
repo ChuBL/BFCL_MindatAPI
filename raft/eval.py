@@ -15,7 +15,7 @@ from dotenv import load_dotenv
 from tenacity import Retrying, retry, wait_exponential, retry_if_exception_type, before_sleep_log
 from client_utils import CompletionsCompleter
 
-load_dotenv()  # take environment variables from .env.
+load_dotenv(override=True)()  # take environment variables from .env.
 
 def get_args() -> argparse.Namespace:
     """
