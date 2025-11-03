@@ -308,6 +308,7 @@ def generate_leaderboard_csv(leaderboard_table, output_path):
 
         # Non-Live Score
         python_simple_ast_non_live = get_category_score(value, "simple_python")
+        python_mindat_ast_non_live = get_category_score(value, "Mindat_v1")
         python_multiple_ast_non_live = get_category_score(value, "multiple")
         python_parallel_ast_non_live = get_category_score(value, "parallel")
         python_parallel_multiple_ast_non_live = get_category_score(
@@ -320,6 +321,7 @@ def generate_leaderboard_csv(leaderboard_table, output_path):
         simple_ast_non_live = calculate_unweighted_accuracy(
             [
                 python_simple_ast_non_live,
+                python_mindat_ast_non_live,
                 java_simple_ast_non_live,
                 javascript_simple_ast_non_live,
             ]
@@ -354,6 +356,7 @@ def generate_leaderboard_csv(leaderboard_table, output_path):
                 summary_ast_non_live["display_accuracy"],
                 simple_ast_non_live["display_accuracy"],
                 python_simple_ast_non_live["display_accuracy"],
+                python_mindat_ast_non_live["display_accuracy"],
                 java_simple_ast_non_live["display_accuracy"],
                 javascript_simple_ast_non_live["display_accuracy"],
                 multiple_ast_non_live["display_accuracy"],

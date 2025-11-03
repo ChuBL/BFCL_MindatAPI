@@ -1,0 +1,2 @@
+{"id": "Mindat_v1_0", "ground_truth": [{"mindat_geomaterial": {"ima": [true], "hardness_min": [5], "hardness_max": [7]}}]}
+{"id": "Mindat_v1_1", "ground_truth": [{"[mindat_geomaterial": {"ima": [true], "crystal_system": [["Amorphous", "Trigonal"]]}}]}

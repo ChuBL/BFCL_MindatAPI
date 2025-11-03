@@ -23,6 +23,9 @@ from bfcl_eval.model_handler.api_inference.nvidia import NvidiaHandler
 from bfcl_eval.model_handler.api_inference.openai_completion import (
     OpenAICompletionsHandler,
 )
+from bfcl_eval.model_handler.api_inference.openai_completion_azure import (
+    OpenAIAzureCompletionsHandler,
+)
 from bfcl_eval.model_handler.api_inference.openai_response import OpenAIResponsesHandler
 from bfcl_eval.model_handler.api_inference.qwen import (
     QwenAgentNoThinkHandler,
@@ -251,6 +254,18 @@ api_inference_model_map = {
         org="OpenAI",
         license="Proprietary",
         model_handler=OpenAIResponsesHandler,
+        input_price=2,
+        output_price=8,
+        is_fc_model=False,
+        underscore_to_dot=False,
+    ),
+    "gpt-4.1-2025-04-14-azure": ModelConfig(
+        model_name="gpt-4.1-2025-04-14",
+        display_name="GPT-4.1-2025-04-14 (Prompt)",
+        url="https://openai.com/index/gpt-4-1/",
+        org="OpenAI",
+        license="Proprietary",
+        model_handler=OpenAIAzureCompletionsHandler,
         input_price=2,
         output_price=8,
         is_fc_model=False,

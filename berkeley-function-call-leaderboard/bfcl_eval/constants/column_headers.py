@@ -5,6 +5,7 @@ COLUMNS_NON_LIVE = [
     "AST Summary",
     "Simple AST",
     "Python Simple AST",
+    "Mindat AST",
     "Java Simple AST",
     "JavaScript Simple AST",
     "Multiple AST",

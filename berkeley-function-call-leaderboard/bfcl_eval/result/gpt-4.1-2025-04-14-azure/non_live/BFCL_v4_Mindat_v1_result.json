@@ -1,0 +1,2 @@
+{"id": "Mindat_v1_0", "result": "[mindat_geomaterial(ima=True, hardness_min=5, hardness_max=7)]", "input_token_count": 571, "output_token_count": 20, "latency": 1.518448829650879}
+{"id": "Mindat_v1_1", "result": "[mindat_geomaterial(ima=True, crystal_system=[\"Amorphous\", \"Trigonal\"])]", "input_token_count": 574, "output_token_count": 22, "latency": 0.46555495262145996}

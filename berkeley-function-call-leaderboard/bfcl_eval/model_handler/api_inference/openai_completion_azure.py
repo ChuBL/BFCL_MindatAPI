@@ -18,7 +18,7 @@ from bfcl_eval.model_handler.utils import (
 from openai import OpenAI, AzureOpenAI, RateLimitError
 from typing import Dict
 
-class OpenAICompletionsHandler(BaseHandler):
+class OpenAIAzureCompletionsHandler(BaseHandler):
     
     def __init__(
         self,
@@ -69,24 +69,6 @@ class OpenAICompletionsHandler(BaseHandler):
         if headers_env:
             kwargs["default_headers"] = json.loads(headers_env)
         return kwargs
-
-    # def _build_client_kwargs(self):
-    #     """Collect OpenAI client keyword arguments from environment variables, but only
-    #     include them if they are actually present so that we keep the call minimal
-    #     and rely on the OpenAI SDK's own defaults when possible."""
-
-    #     kwargs = {}
-
-    #     if api_key := os.getenv("OPENAI_API_KEY"):
-    #         kwargs["api_key"] = api_key
-
-    #     if base_url := os.getenv("OPENAI_BASE_URL"):
-    #         kwargs["base_url"] = base_url
-
-    #     if headers_env := os.getenv("OPENAI_DEFAULT_HEADERS"):
-    #         kwargs["default_headers"] = json.loads(headers_env)
-
-    #     return kwargs
 
     def decode_ast(self, result, language, has_tool_call_tag):
         if self.is_fc_model:
@@ -346,3 +328,21 @@ class OpenAICompletionsHandler(BaseHandler):
                 "role": "assistant",
                 "content": str(response_data["model_responses"]),
             }
+            
+
+if __name__ == "__main__":
+    pass
+    # python -m bfcl_eval.model_handler.api_inference.openai_completion_azure
+    # # test the llm api conncection
+    # handler = OpenAICompletionsHandler(
+    #     model_name="gpt-4o", temperature=0, registry_name="test_registry", is_fc_model=True
+    # )
+    # test_inference_data = {
+    #     "message": [
+    #         {"role": "user", "content": "Hello, how can I use function calling?"}
+    #     ],
+    #     "tools": [],
+    # }
+    # response, latency = handler._query_FC(test_inference_data)
+    # print("Response:", response)
+    # print("Latency:", latency)
