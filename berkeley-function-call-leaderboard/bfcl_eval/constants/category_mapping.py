@@ -9,7 +9,6 @@ ALL_AVAILABLE_MEMORY_BACKENDS = [
 
 NON_LIVE_CATEGORY = [
     "simple_python",
-    "simple_python1",
     "simple_java",
     "simple_javascript",
     "multiple",
@@ -24,6 +23,7 @@ NON_LIVE_CATEGORY = [
     # "sql",
     # "chatable",
     "Mindat_v1",
+    "Mindat_v1_irrelevance"
 ]
 LIVE_CATEGORY = [
     "live_simple",
@@ -85,7 +85,8 @@ TEST_COLLECTION_MAPPING = {
         "live_parallel_multiple",
         "live_irrelevance",
         "live_relevance",
-        "Mindat_v1"
+        "Mindat_v1",
+        "Mindat_v1_irrelevance"
     ],
     "memory": MEMORY_CATEGORY,
     "web_search": WEB_SEARCH_CATEGORY,

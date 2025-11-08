@@ -1,0 +1,267 @@
+{"id": "Mindat_v1_0", "result": "[mindat_geomaterial(ima=True, hardness_min=4.0, hardness_max=6.0)]", "input_token_count": 580, "output_token_count": 24, "latency": 1.3212370872497559}
+{"id": "Mindat_v1_1", "result": "[mindat_geomaterial(ima=True, hardness_min=2.5, hardness_max=5.2)]", "input_token_count": 583, "output_token_count": 24, "latency": 0.49688291549682617}
+{"id": "Mindat_v1_2", "result": "[mindat_geomaterial(ima=True, hardness_min=7.01, hardness_max=9)]", "input_token_count": 585, "output_token_count": 22, "latency": 0.48934125900268555}
+{"id": "Mindat_v1_3", "result": "[mindat_geomaterial(ima=True, hardness_min=3, hardness_max=3.5)]", "input_token_count": 582, "output_token_count": 22, "latency": 0.4751241207122803}
+{"id": "Mindat_v1_4", "result": "[mindat_geomaterial(ima=True, hardness_min=6.2, hardness_max=7.8)]", "input_token_count": 582, "output_token_count": 24, "latency": 0.5123929977416992}
+{"id": "Mindat_v1_5", "result": "[mindat_geomaterial(ima=True, hardness_min=2, hardness_max=4)]", "input_token_count": 577, "output_token_count": 20, "latency": 0.47408199310302734}
+{"id": "Mindat_v1_6", "result": "[mindat_geomaterial(ima=True, hardness_min=1, hardness_max=3)]", "input_token_count": 579, "output_token_count": 20, "latency": 0.46207714080810547}
+{"id": "Mindat_v1_7", "result": "[mindat_geomaterial(ima=True, hardness_min=5, hardness_max=7)]", "input_token_count": 578, "output_token_count": 20, "latency": 0.5200340747833252}
+{"id": "Mindat_v1_8", "result": "[mindat_geomaterial(ima=True, hardness_min=6, hardness_max=8)]", "input_token_count": 577, "output_token_count": 20, "latency": 0.4909842014312744}
+{"id": "Mindat_v1_9", "result": "[mindat_geomaterial(ima=True, hardness_min=4, hardness_max=6)]", "input_token_count": 577, "output_token_count": 20, "latency": 0.6555562019348145}
+{"id": "Mindat_v1_10", "result": "[mindat_geomaterial(ima=True, hardness_min=3, hardness_max=5)]", "input_token_count": 573, "output_token_count": 20, "latency": 0.6270110607147217}
+{"id": "Mindat_v1_11", "result": "[mindat_geomaterial(ima=True, hardness_min=7, hardness_max=8)]", "input_token_count": 571, "output_token_count": 20, "latency": 0.433535099029541}
+{"id": "Mindat_v1_12", "result": "[mindat_geomaterial(ima=True, hardness_min=6.0)]", "input_token_count": 572, "output_token_count": 17, "latency": 0.6005260944366455}
+{"id": "Mindat_v1_13", "result": "[mindat_geomaterial(ima=True, hardness_min=2, hardness_max=4)]", "input_token_count": 576, "output_token_count": 20, "latency": 0.446209192276001}
+{"id": "Mindat_v1_14", "result": "[mindat_geomaterial(ima=True, hardness_min=5, hardness_max=7)]", "input_token_count": 573, "output_token_count": 20, "latency": 0.3955709934234619}
+{"id": "Mindat_v1_15", "result": "[mindat_geomaterial(ima=True, crystal_system=[\"Hexagonal\", \"Monoclinic\"])]", "input_token_count": 576, "output_token_count": 23, "latency": 0.764045000076294}
+{"id": "Mindat_v1_16", "result": "[mindat_geomaterial(ima=True, crystal_system=[\"Tetragonal\", \"Trigonal\"])]", "input_token_count": 576, "output_token_count": 22, "latency": 0.6157431602478027}
+{"id": "Mindat_v1_17", "result": "[mindat_geomaterial(ima=True, crystal_system=[\"Isometric\", \"Orthorhombic\"])]", "input_token_count": 577, "output_token_count": 24, "latency": 0.497891902923584}
+{"id": "Mindat_v1_18", "result": "[mindat_geomaterial(ima=True, crystal_system=[\"Amorphous\", \"Triclinic\"])]", "input_token_count": 578, "output_token_count": 24, "latency": 0.5351889133453369}
+{"id": "Mindat_v1_19", "result": "[mindat_geomaterial(ima=True, crystal_system=[\"Monoclinic\", \"Hexagonal\", \"Orthorhombic\"])]", "input_token_count": 584, "output_token_count": 30, "latency": 0.4743468761444092}
+{"id": "Mindat_v1_20", "result": "[mindat_geomaterial(ima=True, crystal_system=[\"Orthorhombic\", \"Monoclinic\"])]", "input_token_count": 582, "output_token_count": 26, "latency": 0.4402198791503906}
+{"id": "Mindat_v1_21", "result": "[mindat_geomaterial(ima=True, crystal_system=[\"Hexagonal\", \"Trigonal\"])]", "input_token_count": 581, "output_token_count": 21, "latency": 0.4341440200805664}
+{"id": "Mindat_v1_22", "result": "[mindat_geomaterial(ima=True, crystal_system=[\"Isometric\", \"Tetragonal\"])]", "input_token_count": 575, "output_token_count": 22, "latency": 0.44092893600463867}
+{"id": "Mindat_v1_23", "result": "[mindat_geomaterial(ima=True, crystal_system=[\"Triclinic\", \"Amorphous\"])]", "input_token_count": 576, "output_token_count": 24, "latency": 0.6670539379119873}
+{"id": "Mindat_v1_24", "result": "[mindat_geomaterial(ima=True, crystal_system=[\"Monoclinic\", \"Hexagonal\"])]", "input_token_count": 574, "output_token_count": 23, "latency": 0.4444398880004883}
+{"id": "Mindat_v1_25", "result": "[mindat_geomaterial(ima=True, crystal_system=[\"Hexagonal\", \"Isometric\"])]", "input_token_count": 576, "output_token_count": 21, "latency": 0.46952104568481445}
+{"id": "Mindat_v1_26", "result": "[mindat_geomaterial(ima=True, crystal_system=[\"Trigonal\", \"Tetragonal\"])]", "input_token_count": 577, "output_token_count": 22, "latency": 0.5337421894073486}
+{"id": "Mindat_v1_27", "result": "[mindat_geomaterial(ima=True, crystal_system=[\"Hexagonal\", \"Orthorhombic\"])]", "input_token_count": 576, "output_token_count": 24, "latency": 0.5866589546203613}
+{"id": "Mindat_v1_28", "result": "[mindat_geomaterial(ima=True, crystal_system=[\"Isometric\", \"Monoclinic\"])]", "input_token_count": 570, "output_token_count": 23, "latency": 0.42134594917297363}
+{"id": "Mindat_v1_29", "result": "[mindat_geomaterial(ima=True, crystal_system=[\"Hexagonal\", \"Triclinic\"])]", "input_token_count": 573, "output_token_count": 23, "latency": 0.443997859954834}
+{"id": "Mindat_v1_30", "result": "[mindat_geomaterial(ima=True, el_inc=\"Si,O\")]", "input_token_count": 574, "output_token_count": 16, "latency": 0.5178580284118652}
+{"id": "Mindat_v1_31", "result": "[mindat_geomaterial(ima=True, el_inc=\"Mg,Al\")]", "input_token_count": 574, "output_token_count": 17, "latency": 0.5671849250793457}
+{"id": "Mindat_v1_32", "result": "[mindat_geomaterial(ima=True, el_inc=\"Na,K\")]", "input_token_count": 573, "output_token_count": 16, "latency": 0.5755140781402588}
+{"id": "Mindat_v1_33", "result": "[mindat_geomaterial(ima=True, el_inc=\"Ca,P\")]", "input_token_count": 571, "output_token_count": 16, "latency": 0.5117011070251465}
+{"id": "Mindat_v1_34", "result": "[mindat_geomaterial(ima=True, el_inc=\"Mn,Cu\")]", "input_token_count": 574, "output_token_count": 17, "latency": 0.4316999912261963}
+{"id": "Mindat_v1_35", "result": "[mindat_geomaterial(ima=True, el_inc=\"Fe,Mg\")]", "input_token_count": 573, "output_token_count": 17, "latency": 0.5399332046508789}
+{"id": "Mindat_v1_36", "result": "[mindat_geomaterial(ima=True, el_inc=\"Si,O\")]", "input_token_count": 575, "output_token_count": 16, "latency": 0.4440579414367676}
+{"id": "Mindat_v1_37", "result": "[mindat_geomaterial(ima=True, el_inc=\"Na,K\")]", "input_token_count": 573, "output_token_count": 16, "latency": 0.4174032211303711}
+{"id": "Mindat_v1_38", "result": "[mindat_geomaterial(ima=True, el_inc=\"Ca,F\")]", "input_token_count": 573, "output_token_count": 16, "latency": 0.4468991756439209}
+{"id": "Mindat_v1_39", "result": "[mindat_geomaterial(ima=True, el_inc=\"Al,Ti\")]", "input_token_count": 571, "output_token_count": 17, "latency": 0.41455793380737305}
+{"id": "Mindat_v1_40", "result": "[mindat_geomaterial(ima=True, el_inc=\"Mg,Si\")]", "input_token_count": 572, "output_token_count": 17, "latency": 0.44945502281188965}
+{"id": "Mindat_v1_41", "result": "[mindat_geomaterial(ima=True, el_inc=\"Fe,Pb\")]", "input_token_count": 568, "output_token_count": 17, "latency": 5.279782772064209}
+{"id": "Mindat_v1_42", "result": "[mindat_geomaterial(ima=True, el_inc=\"Ca,Mn\")]", "input_token_count": 574, "output_token_count": 17, "latency": 0.5697300434112549}
+{"id": "Mindat_v1_43", "result": "[mindat_geomaterial(ima=True, el_inc=\"Zn,Al\", el_exc=\"Cu\")]", "input_token_count": 570, "output_token_count": 22, "latency": 0.5540871620178223}
+{"id": "Mindat_v1_44", "result": "[mindat_geomaterial(ima=True, el_inc=\"S,O\")]", "input_token_count": 574, "output_token_count": 16, "latency": 0.41878604888916016}
+{"id": "Mindat_v1_45", "result": "[mindat_geomaterial(ima=True, el_exc=\"Na,K\")]", "input_token_count": 576, "output_token_count": 16, "latency": 0.4903709888458252}
+{"id": "Mindat_v1_46", "result": "[mindat_geomaterial(ima=True, el_exc=\"Mg,Al\")]", "input_token_count": 572, "output_token_count": 17, "latency": 0.4568462371826172}
+{"id": "Mindat_v1_47", "result": "[mindat_geomaterial(ima=True, el_exc=\"S,O\")]", "input_token_count": 574, "output_token_count": 16, "latency": 0.4247438907623291}
+{"id": "Mindat_v1_48", "result": "[mindat_geomaterial(ima=True, el_exc=\"Ca,Cr\")]", "input_token_count": 574, "output_token_count": 17, "latency": 0.42639732360839844}
+{"id": "Mindat_v1_49", "result": "[mindat_geomaterial(ima=True, el_exc=\"Si,Mn\")]", "input_token_count": 574, "output_token_count": 17, "latency": 0.43908190727233887}
+{"id": "Mindat_v1_50", "result": "[mindat_geomaterial(ima=True, el_exc=\"Fe,Mg\")]", "input_token_count": 571, "output_token_count": 17, "latency": 0.4284169673919678}
+{"id": "Mindat_v1_51", "result": "[mindat_geomaterial(ima=True, el_exc=\"Al,Si\")]", "input_token_count": 572, "output_token_count": 17, "latency": 0.4113452434539795}
+{"id": "Mindat_v1_52", "result": "[mindat_geomaterial(ima=True, el_exc=\"Ca,Na\")]", "input_token_count": 570, "output_token_count": 17, "latency": 0.46170496940612793}
+{"id": "Mindat_v1_53", "result": "[mindat_geomaterial(ima=True, el_exc=\"K,Cl\")]", "input_token_count": 568, "output_token_count": 17, "latency": 1.538794994354248}
+{"id": "Mindat_v1_54", "result": "[mindat_geomaterial(ima=True, el_exc=\"Pb,As\")]", "input_token_count": 570, "output_token_count": 17, "latency": 0.5273869037628174}
+{"id": "Mindat_v1_55", "result": "[mindat_geomaterial(ima=True, el_exc=\"Na,Cl\")]", "input_token_count": 578, "output_token_count": 17, "latency": 0.41891026496887207}
+{"id": "Mindat_v1_56", "result": "[mindat_geomaterial(ima=True, el_exc=\"Mg,Zn\")]", "input_token_count": 568, "output_token_count": 17, "latency": 0.42424917221069336}
+{"id": "Mindat_v1_57", "result": "[mindat_geomaterial(ima=True, el_exc=\"O,Si\")]", "input_token_count": 569, "output_token_count": 17, "latency": 0.4235959053039551}
+{"id": "Mindat_v1_58", "result": "[mindat_geomaterial(ima=True, el_exc=\"Al,C\")]", "input_token_count": 570, "output_token_count": 16, "latency": 0.4008209705352783}
+{"id": "Mindat_v1_59", "result": "[mindat_geomaterial(ima=True, el_exc=\"Ca,S\")]", "input_token_count": 570, "output_token_count": 16, "latency": 0.8398170471191406}
+{"id": "Mindat_v1_60", "result": "[mindat_geomaterial(ima=True, crystal_system=[\"Triclinic\"], el_inc=\"Li\")]", "input_token_count": 578, "output_token_count": 23, "latency": 0.4578578472137451}
+{"id": "Mindat_v1_61", "result": "[mindat_geomaterial(ima=True, crystal_system=[\"Hexagonal\"], el_inc=\"Co\")]", "input_token_count": 574, "output_token_count": 21, "latency": 0.39995288848876953}
+{"id": "Mindat_v1_62", "result": "[mindat_geomaterial(ima=True, crystal_system=[\"Isometric\"], el_inc=\"Mn\")]", "input_token_count": 573, "output_token_count": 21, "latency": 0.5061559677124023}
+{"id": "Mindat_v1_63", "result": "[mindat_geomaterial(ima=True, crystal_system=[\"Tetragonal\"], el_inc=\"W\")]", "input_token_count": 570, "output_token_count": 22, "latency": 0.46899890899658203}
+{"id": "Mindat_v1_64", "result": "[mindat_geomaterial(ima=True, crystal_system=[\"Orthorhombic\"], el_inc=\"Ba\")]", "input_token_count": 579, "output_token_count": 24, "latency": 0.44594287872314453}
+{"id": "Mindat_v1_65", "result": "[mindat_geomaterial(ima=True, crystal_system=[\"Trigonal\"], el_inc=\"Zn\")]", "input_token_count": 572, "output_token_count": 21, "latency": 0.4806838035583496}
+{"id": "Mindat_v1_66", "result": "[mindat_geomaterial(ima=True, crystal_system=[\"Hexagonal\"], el_inc=\"Ni\")]", "input_token_count": 572, "output_token_count": 21, "latency": 0.395780086517334}
+{"id": "Mindat_v1_67", "result": "[mindat_geomaterial(ima=True, crystal_system=[\"Isometric\"], el_inc=\"Au\")]", "input_token_count": 573, "output_token_count": 21, "latency": 0.5658402442932129}
+{"id": "Mindat_v1_68", "result": "[mindat_geomaterial(ima=True, crystal_system=[\"Monoclinic\"], el_inc=\"Ag\")]", "input_token_count": 572, "output_token_count": 23, "latency": 0.4315178394317627}
+{"id": "Mindat_v1_69", "result": "[mindat_geomaterial(ima=True, crystal_system=[\"Orthorhombic\"], el_inc=\"Cr\")]", "input_token_count": 573, "output_token_count": 24, "latency": 0.48554491996765137}
+{"id": "Mindat_v1_70", "result": "[mindat_geomaterial(ima=True, crystal_system=[\"Isometric\"], el_inc=\"Ti\")]", "input_token_count": 568, "output_token_count": 21, "latency": 0.5130889415740967}
+{"id": "Mindat_v1_71", "result": "[mindat_geomaterial(ima=True, crystal_system=[\"Hexagonal\"], el_inc=\"Zn\")]", "input_token_count": 572, "output_token_count": 21, "latency": 0.5737218856811523}
+{"id": "Mindat_v1_72", "result": "[mindat_geomaterial(ima=True, crystal_system=[\"Orthorhombic\"], el_inc=\"Mg\")]", "input_token_count": 573, "output_token_count": 24, "latency": 0.46567273139953613}
+{"id": "Mindat_v1_73", "result": "[mindat_geomaterial(ima=True, crystal_system=[\"Monoclinic\"], el_inc=\"Sr\")]", "input_token_count": 570, "output_token_count": 23, "latency": 0.7488019466400146}
+{"id": "Mindat_v1_74", "result": "[mindat_geomaterial(ima=True, crystal_system=[\"Tetragonal\"], el_inc=\"Al\")]", "input_token_count": 569, "output_token_count": 22, "latency": 0.4295520782470703}
+{"id": "Mindat_v1_75", "result": "[mindat_geomaterial(ima=True, hardness_min=5, el_exc=\"Pb\")]", "input_token_count": 580, "output_token_count": 20, "latency": 0.4609379768371582}
+{"id": "Mindat_v1_76", "result": "[mindat_geomaterial(ima=True, hardness_min=3.5, el_exc=\"Hg\")]", "input_token_count": 576, "output_token_count": 22, "latency": 0.4438750743865967}
+{"id": "Mindat_v1_77", "result": "[mindat_geomaterial(ima=True, hardness_min=6, el_exc=\"Al\")]", "input_token_count": 580, "output_token_count": 20, "latency": 0.5824110507965088}
+{"id": "Mindat_v1_78", "result": "[mindat_geomaterial(ima=True, hardness_min=7.01, el_exc=\"Na\")]", "input_token_count": 579, "output_token_count": 22, "latency": 0.5182421207427979}
+{"id": "Mindat_v1_79", "result": "[mindat_geomaterial(ima=True, hardness_min=2.0, el_exc=\"B,Sn\")]", "input_token_count": 576, "output_token_count": 24, "latency": 0.49820899963378906}
+{"id": "Mindat_v1_80", "result": "[mindat_geomaterial(ima=True, hardness_min=6.01, el_exc=\"Ca\")]", "input_token_count": 574, "output_token_count": 22, "latency": 0.471599817276001}
+{"id": "Mindat_v1_81", "result": "[mindat_geomaterial(ima=True, hardness_min=5.0, el_exc=\"Mg\")]", "input_token_count": 575, "output_token_count": 22, "latency": 0.48801684379577637}
+{"id": "Mindat_v1_82", "result": "[mindat_geomaterial(ima=True, hardness_min=7, el_exc=\"Zn\")]", "input_token_count": 580, "output_token_count": 20, "latency": 0.4322502613067627}
+{"id": "Mindat_v1_84", "result": "[mindat_geomaterial(ima=True, hardness_min=4, el_exc=\"Pb\")]", "input_token_count": 579, "output_token_count": 20, "latency": 0.44468092918395996}
+{"id": "Mindat_v1_85", "result": "[mindat_geomaterial(ima=True, hardness_min=3.01, el_exc='Si')]", "input_token_count": 577, "output_token_count": 22, "latency": 0.46553802490234375}
+{"id": "Mindat_v1_86", "result": "[mindat_geomaterial(ima=True, hardness_min=6.0, el_exc='Na')]", "input_token_count": 575, "output_token_count": 22, "latency": 0.4402899742126465}
+{"id": "Mindat_v1_87", "result": "[mindat_geomaterial(ima=True, hardness_min=2, el_exc='Pb')]", "input_token_count": 575, "output_token_count": 20, "latency": 0.43978381156921387}
+{"id": "Mindat_v1_88", "result": "[mindat_geomaterial(ima=True, hardness_min=4, el_exc='Al')]", "input_token_count": 579, "output_token_count": 20, "latency": 0.43198299407958984}
+{"id": "Mindat_v1_89", "result": "[mindat_geomaterial(ima=True, hardness_min=7, el_exc='Mg')]", "input_token_count": 572, "output_token_count": 20, "latency": 0.41488099098205566}
+{"id": "Mindat_v1_90", "result": "[mindat_geomaterial(ima=True, el_inc=\"Cu\", el_exc=\"Fe\")]", "input_token_count": 569, "output_token_count": 20, "latency": 0.7357211112976074}
+{"id": "Mindat_v1_91", "result": "[mindat_geomaterial(ima=True, el_inc=\"Mg\", el_exc=\"Ca\")]", "input_token_count": 574, "output_token_count": 20, "latency": 0.4255211353302002}
+{"id": "Mindat_v1_92", "result": "[mindat_geomaterial(ima=True, el_inc=\"Si\", el_exc=\"Al\")]", "input_token_count": 571, "output_token_count": 20, "latency": 0.44812917709350586}
+{"id": "Mindat_v1_93", "result": "[mindat_geomaterial(ima=True, el_inc=\"Na\", el_exc=\"K\")]", "input_token_count": 570, "output_token_count": 20, "latency": 0.465425968170166}
+{"id": "Mindat_v1_94", "result": "[mindat_geomaterial(ima=True, el_inc=\"Pb\", el_exc=\"As\")]", "input_token_count": 572, "output_token_count": 20, "latency": 0.4308757781982422}
+{"id": "Mindat_v1_95", "result": "[mindat_geomaterial(ima=True, el_inc=\"Zn\", el_exc=\"S\")]", "input_token_count": 573, "output_token_count": 20, "latency": 0.4639103412628174}
+{"id": "Mindat_v1_96", "result": "[mindat_geomaterial(ima=True, el_inc=\"Mn\", el_exc=\"Fe\")]", "input_token_count": 570, "output_token_count": 20, "latency": 0.5044679641723633}
+{"id": "Mindat_v1_97", "result": "[mindat_geomaterial(ima=True, el_inc=\"Ag\", el_exc=\"Pb\")]", "input_token_count": 570, "output_token_count": 20, "latency": 0.41116976737976074}
+{"id": "Mindat_v1_98", "result": "[mindat_geomaterial(ima=True, el_inc=\"Ni\", el_exc=\"Co\")]", "input_token_count": 570, "output_token_count": 20, "latency": 0.4231133460998535}
+{"id": "Mindat_v1_99", "result": "[mindat_geomaterial(ima=True, el_inc=\"B\", el_exc=\"Al\")]", "input_token_count": 572, "output_token_count": 20, "latency": 0.41783905029296875}
+{"id": "Mindat_v1_100", "result": "[mindat_geomaterial(ima=True, el_inc=\"Mg\", el_exc=\"Na\")]", "input_token_count": 568, "output_token_count": 20, "latency": 1.4011168479919434}
+{"id": "Mindat_v1_101", "result": "[mindat_geomaterial(ima=True, el_inc=\"Zn\", el_exc=\"Pb\")]", "input_token_count": 571, "output_token_count": 20, "latency": 0.4352121353149414}
+{"id": "Mindat_v1_102", "result": "[mindat_geomaterial(ima=True, el_inc=\"C\", el_exc=\"Si\")]", "input_token_count": 570, "output_token_count": 20, "latency": 0.44132304191589355}
+{"id": "Mindat_v1_103", "result": "[mindat_geomaterial(ima=True, el_inc=\"Al\", el_exc=\"Ca\")]", "input_token_count": 569, "output_token_count": 20, "latency": 0.3979368209838867}
+{"id": "Mindat_v1_104", "result": "[mindat_geomaterial(ima=True, el_inc=\"S\", el_exc=\"Cl\")]", "input_token_count": 569, "output_token_count": 20, "latency": 0.42655205726623535}
+{"id": "Mindat_v1_105", "result": "[mindat_geomaterial(ima=True, hardness_min=4.0, hardness_max=6.0, crystal_system=[\"Monoclinic\", \"Hexagonal\"], el_inc=\"Cu\", el_exc=\"Pb\")]", "input_token_count": 603, "output_token_count": 46, "latency": 0.5832319259643555}
+{"id": "Mindat_v1_106", "result": "[mindat_geomaterial(ima=True, hardness_min=2.5, hardness_max=5.5, crystal_system=[\"Tetragonal\", \"Trigonal\"], el_inc=\"Si\", el_exc=\"S\")]", "input_token_count": 603, "output_token_count": 45, "latency": 0.559196949005127}
+{"id": "Mindat_v1_107", "result": "[mindat_geomaterial(ima=True, hardness_min=5.0, hardness_max=7.0, crystal_system=[\"Orthorhombic\"], el_inc=\"Fe,Mg\", el_exc=\"Al\")]", "input_token_count": 602, "output_token_count": 45, "latency": 0.5519731044769287}
+{"id": "Mindat_v1_108", "result": "[mindat_geomaterial(ima=True, hardness_min=1.0, hardness_max=3.0, crystal_system=[\"Isometric\"], el_inc=\"Li\", el_exc=\"F\")]", "input_token_count": 601, "output_token_count": 40, "latency": 5.600520849227905}
+{"id": "Mindat_v1_109", "result": "[mindat_geomaterial(ima=True, hardness_min=4.5, hardness_max=8.0, crystal_system=[\"Triclinic\", \"Amorphous\"], el_inc=\"Ca,Na\", el_exc=\"K\")]", "input_token_count": 608, "output_token_count": 49, "latency": 0.7200362682342529}
+{"id": "Mindat_v1_110", "result": "[mindat_geomaterial(ima=True, hardness_min=4, hardness_max=5, crystal_system=[\"Isometric\", \"Tetragonal\"], el_inc=\"Mg\", el_exc=\"Cr\")]", "input_token_count": 597, "output_token_count": 41, "latency": 0.4751698970794678}
+{"id": "Mindat_v1_111", "result": "[mindat_geomaterial(ima=True, hardness_min=6, crystal_system=[\"Orthorhombic\"], el_inc=\"Al\", el_exc=\"Na\")]", "input_token_count": 592, "output_token_count": 34, "latency": 0.4693470001220703}
+{"id": "Mindat_v1_112", "result": "[mindat_geomaterial(ima=True, hardness_min=1, hardness_max=2, crystal_system=[\"Monoclinic\"], el_inc=\"Fe\", el_exc=\"Ni\")]", "input_token_count": 592, "output_token_count": 38, "latency": 0.49499964714050293}
+{"id": "Mindat_v1_113", "result": "[mindat_geomaterial(ima=True, hardness_min=7, hardness_max=8, crystal_system=[\"Trigonal\"], el_inc=\"Si,F\", el_exc=\"Ca\")]", "input_token_count": 590, "output_token_count": 37, "latency": 0.5088376998901367}
+{"id": "Mindat_v1_114", "result": "[mindat_geomaterial(ima=True, hardness_max=3, crystal_system=[\"Amorphous\"], el_inc=\"Cu,S\", el_exc=\"As\")]", "input_token_count": 591, "output_token_count": 33, "latency": 0.6062920093536377}
+{"id": "Mindat_v1_115", "result": "[mindat_geomaterial(ima=True, hardness_min=4, hardness_max=6, crystal_system=[\"Monoclinic\"], el_inc=\"Zn\", el_exc=\"Mg\")]", "input_token_count": 592, "output_token_count": 38, "latency": 0.5422580242156982}
+{"id": "Mindat_v1_116", "result": "[mindat_geomaterial(ima=True, hardness_min=1.5, hardness_max=4, crystal_system=[\"Isometric\"], el_inc=\"Ag\", el_exc=\"Pb\")]", "input_token_count": 592, "output_token_count": 38, "latency": 0.5490787029266357}
+{"id": "Mindat_v1_117", "result": "[mindat_geomaterial(ima=True, hardness_max=5, crystal_system=[\"Orthorhombic\", \"Tetragonal\"], el_inc=\"Ni\", el_exc=\"S\")]", "input_token_count": 598, "output_token_count": 39, "latency": 0.4932539463043213}
+{"id": "Mindat_v1_118", "result": "[mindat_geomaterial(ima=True, hardness_min=3, hardness_max=7, crystal_system=[\"Triclinic\"], el_inc=\"Mn\", el_exc=\"Co\")]", "input_token_count": 591, "output_token_count": 38, "latency": 0.48676609992980957}
+{"id": "Mindat_v1_119", "result": "[mindat_geomaterial(ima=True, hardness_min=2, hardness_max=6, crystal_system=[\"Hexagonal\"], el_inc=\"Ca\", el_exc=\"Fe\")]", "input_token_count": 588, "output_token_count": 36, "latency": 0.5517048835754395}
+{"id": "Mindat_v1_120", "result": "[mindat_geomaterial(ima=True, el_inc=\"Fe,Cu\")]", "input_token_count": 573, "output_token_count": 17, "latency": 0.6380019187927246}
+{"id": "Mindat_v1_121", "result": "[mindat_geomaterial(ima=True, el_inc=\"Mg\", el_exc=\"Pb\")]", "input_token_count": 573, "output_token_count": 20, "latency": 5.6180408000946045}
+{"id": "Mindat_v1_122", "result": "[mindat_geomaterial(ima=True, el_inc=\"Ag,Au\")]", "input_token_count": 573, "output_token_count": 17, "latency": 0.6115429401397705}
+{"id": "Mindat_v1_123", "result": "[mindat_geomaterial(ima=True, el_inc=\"Ni,Co\", el_exc=\"Hg\")]", "input_token_count": 576, "output_token_count": 22, "latency": 0.648043155670166}
+{"id": "Mindat_v1_124", "result": "[mindat_geomaterial(ima=True, el_inc=\"Al,Sn\")]", "input_token_count": 570, "output_token_count": 17, "latency": 0.4823188781738281}
+{"id": "Mindat_v1_125", "result": "[mindat_geomaterial(ima=True, el_inc=\"Fe,Zn\")]", "input_token_count": 571, "output_token_count": 17, "latency": 0.5089221000671387}
+{"id": "Mindat_v1_126", "result": "[mindat_geomaterial(ima=True, el_inc=\"Ni\", el_exc=\"S\")]", "input_token_count": 571, "output_token_count": 20, "latency": 0.7364919185638428}
+{"id": "Mindat_v1_127", "result": "[mindat_geomaterial(ima=True, el_inc=\"Mg,Si\")]", "input_token_count": 572, "output_token_count": 17, "latency": 0.4415421485900879}
+{"id": "Mindat_v1_128", "result": "[mindat_geomaterial(ima=True, el_inc=\"Ca\", el_exc=\"Al\")]", "input_token_count": 576, "output_token_count": 20, "latency": 0.5336611270904541}
+{"id": "Mindat_v1_129", "result": "[mindat_geomaterial(ima=True, el_inc=\"Cu,Ag\")]", "input_token_count": 570, "output_token_count": 17, "latency": 0.4887230396270752}
+{"id": "Mindat_v1_130", "result": "[mindat_geomaterial(ima=True, hardness_min=7, el_inc=\"Fe,Cu\")]", "input_token_count": 576, "output_token_count": 22, "latency": 0.5781917572021484}
+{"id": "Mindat_v1_131", "result": "[mindat_geomaterial(ima=True, hardness_min=2, hardness_max=6, el_inc=\"Fe\", el_exc=\"Zn\")]", "input_token_count": 580, "output_token_count": 30, "latency": 0.6493487358093262}
+{"id": "Mindat_v1_133", "result": "[mindat_geomaterial(ima=True, hardness_max=4, el_inc=\"Mn\", el_exc=\"Pb\")]", "input_token_count": 576, "output_token_count": 25, "latency": 0.5353059768676758}
+{"id": "Mindat_v1_134", "result": "[mindat_geomaterial(ima=True, el_inc=\"Al,Fe\", crystal_system=[\"Trigonal\"])]", "input_token_count": 574, "output_token_count": 24, "latency": 0.5338213443756104}
+{"id": "Mindat_v1_135", "result": "[mindat_geomaterial(ima=True, hardness_min=2.5, hardness_max=6)]", "input_token_count": 576, "output_token_count": 22, "latency": 0.40474867820739746}
+{"id": "Mindat_v1_136", "result": "[mindat_geomaterial(ima=True, hardness_min=5.0, hardness_max=8.0)]", "input_token_count": 578, "output_token_count": 24, "latency": 0.4768061637878418}
+{"id": "Mindat_v1_137", "result": "[mindat_geomaterial(ima=True, hardness_min=4, hardness_max=5.5)]", "input_token_count": 579, "output_token_count": 22, "latency": 0.6537611484527588}
+{"id": "Mindat_v1_138", "result": "[mindat_geomaterial(ima=True, hardness_min=6, hardness_max=7)]", "input_token_count": 576, "output_token_count": 20, "latency": 0.6429240703582764}
+{"id": "Mindat_v1_139", "result": "[mindat_geomaterial(ima=True, hardness_min=1.0, hardness_max=3.0)]", "input_token_count": 582, "output_token_count": 24, "latency": 0.49327778816223145}
+{"id": "Mindat_v1_140", "result": "[mindat_geomaterial(ima=True, hardness_min=4, hardness_max=6)]", "input_token_count": 575, "output_token_count": 20, "latency": 0.4546041488647461}
+{"id": "Mindat_v1_141", "result": "[mindat_geomaterial(ima=True, hardness_min=2, hardness_max=5)]", "input_token_count": 578, "output_token_count": 20, "latency": 0.482363224029541}
+{"id": "Mindat_v1_142", "result": "[mindat_geomaterial(ima=True, hardness_min=7, hardness_max=8)]", "input_token_count": 573, "output_token_count": 20, "latency": 0.5198769569396973}
+{"id": "Mindat_v1_143", "result": "[mindat_geomaterial(ima=True, hardness_min=1, hardness_max=3)]", "input_token_count": 574, "output_token_count": 20, "latency": 0.5167200565338135}
+{"id": "Mindat_v1_144", "result": "[mindat_geomaterial(ima=True, hardness_min=6, hardness_max=9)]", "input_token_count": 575, "output_token_count": 20, "latency": 0.4332387447357178}
+{"id": "Mindat_v1_145", "result": "[mindat_geomaterial(ima=True, hardness_min=3.5, hardness_max=6)]", "input_token_count": 578, "output_token_count": 22, "latency": 0.5245041847229004}
+{"id": "Mindat_v1_146", "result": "[mindat_geomaterial(ima=True, hardness_min=7, hardness_max=8)]", "input_token_count": 576, "output_token_count": 20, "latency": 0.5019598007202148}
+{"id": "Mindat_v1_147", "result": "[mindat_geomaterial(ima=True, hardness_min=2, hardness_max=4)]", "input_token_count": 578, "output_token_count": 20, "latency": 0.4619581699371338}
+{"id": "Mindat_v1_148", "result": "[mindat_geomaterial(ima=True, hardness_min=5, hardness_max=6.5)]", "input_token_count": 576, "output_token_count": 22, "latency": 0.49715709686279297}
+{"id": "Mindat_v1_149", "result": "[mindat_geomaterial(ima=True, hardness_min=1, hardness_max=2)]", "input_token_count": 574, "output_token_count": 20, "latency": 0.4530808925628662}
+{"id": "Mindat_v1_150", "result": "[mindat_geomaterial(ima=True, crystal_system=[\"Triclinic\", \"Monoclinic\"])]", "input_token_count": 579, "output_token_count": 25, "latency": 0.5654702186584473}
+{"id": "Mindat_v1_151", "result": "[mindat_geomaterial(ima=True, crystal_system=[\"Hexagonal\", \"Isometric\"])]", "input_token_count": 575, "output_token_count": 21, "latency": 0.5787880420684814}
+{"id": "Mindat_v1_152", "result": "[mindat_geomaterial(ima=True, crystal_system=[\"Orthorhombic\", \"Tetragonal\"])]", "input_token_count": 576, "output_token_count": 25, "latency": 0.5393269062042236}
+{"id": "Mindat_v1_153", "result": "[mindat_geomaterial(ima=True, crystal_system=[\"Amorphous\", \"Trigonal\"])]", "input_token_count": 576, "output_token_count": 22, "latency": 0.9045689105987549}
+{"id": "Mindat_v1_154", "result": "[mindat_geomaterial(ima=True, crystal_system=[\"Monoclinic\", \"Orthorhombic\", \"Hexagonal\"])]", "input_token_count": 582, "output_token_count": 30, "latency": 0.6670989990234375}
+{"id": "Mindat_v1_155", "result": "[mindat_geomaterial(ima=True, crystal_system=[\"Hexagonal\", \"Trigonal\"])]", "input_token_count": 575, "output_token_count": 21, "latency": 0.5162978172302246}
+{"id": "Mindat_v1_156", "result": "[mindat_geomaterial(ima=True, crystal_system=[\"Orthorhombic\", \"Monoclinic\"])]", "input_token_count": 578, "output_token_count": 26, "latency": 0.7877311706542969}
+{"id": "Mindat_v1_157", "result": "[mindat_geomaterial(ima=True, crystal_system=[\"Isometric\", \"Tetragonal\"])]", "input_token_count": 575, "output_token_count": 22, "latency": 0.5053849220275879}
+{"id": "Mindat_v1_158", "result": "[mindat_geomaterial(ima=True, crystal_system=[\"Triclinic\", \"Hexagonal\"])]", "input_token_count": 573, "output_token_count": 23, "latency": 0.47874903678894043}
+{"id": "Mindat_v1_159", "result": "[mindat_geomaterial(ima=True, crystal_system=[\"Amorphous\", \"Isometric\"])]", "input_token_count": 573, "output_token_count": 22, "latency": 0.5157530307769775}
+{"id": "Mindat_v1_160", "result": "[mindat_geomaterial(ima=True, crystal_system=[\"Hexagonal\", \"Orthorhombic\"])]", "input_token_count": 574, "output_token_count": 24, "latency": 0.5234920978546143}
+{"id": "Mindat_v1_161", "result": "[mindat_geomaterial(ima=True, crystal_system=[\"Tetragonal\", \"Trigonal\"])]", "input_token_count": 582, "output_token_count": 22, "latency": 0.6192290782928467}
+{"id": "Mindat_v1_162", "result": "[mindat_geomaterial(ima=True, crystal_system=[\"Isometric\", \"Monoclinic\"])]", "input_token_count": 575, "output_token_count": 23, "latency": 0.4793741703033447}
+{"id": "Mindat_v1_163", "result": "[mindat_geomaterial(ima=True, crystal_system=[\"Amorphous\", \"Hexagonal\"])]", "input_token_count": 575, "output_token_count": 22, "latency": 0.4696362018585205}
+{"id": "Mindat_v1_164", "result": "[mindat_geomaterial(ima=True, crystal_system=[\"Triclinic\", \"Orthorhombic\"])]", "input_token_count": 577, "output_token_count": 26, "latency": 0.48873281478881836}
+{"id": "Mindat_v1_165", "result": "[mindat_geomaterial(ima=True, el_inc=\"Fe,Si\")]", "input_token_count": 576, "output_token_count": 17, "latency": 0.49565792083740234}
+{"id": "Mindat_v1_166", "result": "[mindat_geomaterial(ima=True, el_inc=\"Pb,As\")]", "input_token_count": 573, "output_token_count": 17, "latency": 0.6345851421356201}
+{"id": "Mindat_v1_167", "result": "[mindat_geomaterial(ima=True, el_inc=\"Cr,V\")]", "input_token_count": 573, "output_token_count": 16, "latency": 0.4702920913696289}
+{"id": "Mindat_v1_168", "result": "[mindat_geomaterial(ima=True, el_inc=\"Cu,Ni\")]", "input_token_count": 572, "output_token_count": 17, "latency": 0.4799768924713135}
+{"id": "Mindat_v1_169", "result": "[mindat_geomaterial(ima=True, el_inc=\"Mg,Ca\")]", "input_token_count": 573, "output_token_count": 17, "latency": 0.5398070812225342}
+{"id": "Mindat_v1_170", "result": "[mindat_geomaterial(ima=True, el_inc=\"Au,Ag\")]", "input_token_count": 573, "output_token_count": 17, "latency": 0.46692395210266113}
+{"id": "Mindat_v1_171", "result": "[mindat_geomaterial(ima=True, el_inc=\"Fe,Mg\")]", "input_token_count": 572, "output_token_count": 17, "latency": 0.43442606925964355}
+{"id": "Mindat_v1_172", "result": "[mindat_geomaterial(ima=True, el_inc=\"Ca,Al\")]", "input_token_count": 569, "output_token_count": 17, "latency": 0.40343189239501953}
+{"id": "Mindat_v1_173", "result": "[mindat_geomaterial(ima=True, el_inc=\"W,Sn\")]", "input_token_count": 571, "output_token_count": 17, "latency": 0.4248621463775635}
+{"id": "Mindat_v1_174", "result": "[mindat_geomaterial(ima=True, el_inc=\"Ni,Co\")]", "input_token_count": 574, "output_token_count": 17, "latency": 0.6110451221466064}
+{"id": "Mindat_v1_175", "result": "[mindat_geomaterial(ima=True, el_inc=\"Fe,Cu\")]", "input_token_count": 572, "output_token_count": 17, "latency": 0.45226597785949707}
+{"id": "Mindat_v1_176", "result": "[mindat_geomaterial(ima=True, el_inc=\"Fe,Cu\")]", "input_token_count": 573, "output_token_count": 17, "latency": 0.42736101150512695}
+{"id": "Mindat_v1_177", "result": "[mindat_geomaterial(ima=True, el_inc=\"Cu,Fe\")]", "input_token_count": 572, "output_token_count": 17, "latency": 0.55708909034729}
+{"id": "Mindat_v1_178", "result": "[mindat_geomaterial(ima=True, el_inc=\"Fe,Cu\")]", "input_token_count": 572, "output_token_count": 17, "latency": 0.529653787612915}
+{"id": "Mindat_v1_179", "result": "[mindat_geomaterial(ima=True, el_inc=\"Fe,Cu\")]", "input_token_count": 570, "output_token_count": 17, "latency": 0.4790372848510742}
+{"id": "Mindat_v1_180", "result": "[mindat_geomaterial(ima=True, el_exc=\"Si,O\")]", "input_token_count": 577, "output_token_count": 16, "latency": 0.5041580200195312}
+{"id": "Mindat_v1_181", "result": "[mindat_geomaterial(ima=True, el_exc=\"Al,Mg\")]", "input_token_count": 576, "output_token_count": 17, "latency": 1.2256848812103271}
+{"id": "Mindat_v1_182", "result": "[mindat_geomaterial(ima=True, el_exc=\"Na,K\")]", "input_token_count": 574, "output_token_count": 16, "latency": 0.4621591567993164}
+{"id": "Mindat_v1_183", "result": "[mindat_geomaterial(ima=True, el_exc=\"S,Cu\")]", "input_token_count": 575, "output_token_count": 17, "latency": 0.4636528491973877}
+{"id": "Mindat_v1_184", "result": "[mindat_geomaterial(ima=True, el_exc=\"Ca,Fe\")]", "input_token_count": 573, "output_token_count": 17, "latency": 0.4828512668609619}
+{"id": "Mindat_v1_185", "result": "[mindat_geomaterial(ima=True, el_exc=\"Fe,Ni\")]", "input_token_count": 571, "output_token_count": 17, "latency": 0.5574071407318115}
+{"id": "Mindat_v1_186", "result": "[mindat_geomaterial(ima=True, el_exc=\"Si,Mg\")]", "input_token_count": 570, "output_token_count": 17, "latency": 0.5684092044830322}
+{"id": "Mindat_v1_187", "result": "[mindat_geomaterial(ima=True, el_exc=\"Al,Ca\")]", "input_token_count": 571, "output_token_count": 17, "latency": 0.5435383319854736}
+{"id": "Mindat_v1_188", "result": "[mindat_geomaterial(ima=True, el_exc=\"B,F\")]", "input_token_count": 571, "output_token_count": 16, "latency": 0.5093460083007812}
+{"id": "Mindat_v1_189", "result": "[mindat_geomaterial(ima=True, el_exc=\"K,Na\")]", "input_token_count": 572, "output_token_count": 17, "latency": 0.509885311126709}
+{"id": "Mindat_v1_190", "result": "[mindat_geomaterial(ima=True, el_exc=\"Ca,Mg\")]", "input_token_count": 577, "output_token_count": 17, "latency": 0.5739109516143799}
+{"id": "Mindat_v1_191", "result": "[mindat_geomaterial(ima=True, el_exc=\"Si,O\")]", "input_token_count": 571, "output_token_count": 16, "latency": 0.39168310165405273}
+{"id": "Mindat_v1_192", "result": "[mindat_geomaterial(ima=True, el_exc=\"S,Fe\")]", "input_token_count": 569, "output_token_count": 17, "latency": 0.4504551887512207}
+{"id": "Mindat_v1_193", "result": "[mindat_geomaterial(ima=True, el_exc=\"Na,Al\")]", "input_token_count": 570, "output_token_count": 17, "latency": 0.41973304748535156}
+{"id": "Mindat_v1_194", "result": "[mindat_geomaterial(ima=True, el_exc=\"Cl,Zn\")]", "input_token_count": 570, "output_token_count": 17, "latency": 0.47318005561828613}
+{"id": "Mindat_v1_195", "result": "[mindat_geomaterial(ima=True, crystal_system=[\"Hexagonal\"], el_inc=\"Ti\")]", "input_token_count": 577, "output_token_count": 21, "latency": 0.4399988651275635}
+{"id": "Mindat_v1_196", "result": "[mindat_geomaterial(ima=True, crystal_system=[\"Isometric\"], el_inc=\"Ag\")]", "input_token_count": 577, "output_token_count": 21, "latency": 0.4762759208679199}
+{"id": "Mindat_v1_197", "result": "[mindat_geomaterial(ima=True, crystal_system=[\"Triclinic\"], el_inc=\"Li\")]", "input_token_count": 582, "output_token_count": 23, "latency": 0.5282230377197266}
+{"id": "Mindat_v1_198", "result": "[mindat_geomaterial(ima=True, crystal_system=[\"Orthorhombic\"], el_inc=\"Cl\")]", "input_token_count": 578, "output_token_count": 24, "latency": 0.4330449104309082}
+{"id": "Mindat_v1_199", "result": "[mindat_geomaterial(ima=True, crystal_system=[\"Tetragonal\"], el_inc=\"U\")]", "input_token_count": 577, "output_token_count": 22, "latency": 0.49124717712402344}
+{"id": "Mindat_v1_200", "result": "[mindat_geomaterial(ima=True, crystal_system=[\"Orthorhombic\"], el_inc=\"Sn\")]", "input_token_count": 578, "output_token_count": 24, "latency": 0.45725107192993164}
+{"id": "Mindat_v1_201", "result": "[mindat_geomaterial(ima=True, crystal_system=[\"Trigonal\"], el_inc=\"Ag\")]", "input_token_count": 575, "output_token_count": 21, "latency": 0.4327681064605713}
+{"id": "Mindat_v1_202", "result": "[mindat_geomaterial(ima=True, crystal_system=[\"Isometric\"], el_inc=\"Li\")]", "input_token_count": 570, "output_token_count": 21, "latency": 0.42142271995544434}
+{"id": "Mindat_v1_203", "result": "[mindat_geomaterial(ima=True, crystal_system=[\"Monoclinic\"], el_inc=\"Mn\")]", "input_token_count": 572, "output_token_count": 23, "latency": 0.46535563468933105}
+{"id": "Mindat_v1_204", "result": "[mindat_geomaterial(ima=True, crystal_system=[\"Tetragonal\"], el_inc=\"Bi\")]", "input_token_count": 571, "output_token_count": 22, "latency": 0.4852180480957031}
+{"id": "Mindat_v1_205", "result": "[mindat_geomaterial(ima=True, crystal_system=[\"Hexagonal\"], el_inc=\"Mg,Si\")]", "input_token_count": 573, "output_token_count": 23, "latency": 0.5053019523620605}
+{"id": "Mindat_v1_206", "result": "[mindat_geomaterial(ima=True, crystal_system=[\"Isometric\"], el_inc=\"Au\")]", "input_token_count": 568, "output_token_count": 21, "latency": 0.5631358623504639}
+{"id": "Mindat_v1_207", "result": "[mindat_geomaterial(ima=True, crystal_system=[\"Monoclinic\"], el_inc=\"Al\")]", "input_token_count": 573, "output_token_count": 23, "latency": 0.45035409927368164}
+{"id": "Mindat_v1_208", "result": "[mindat_geomaterial(ima=True, crystal_system=[\"Orthorhombic\"], el_inc=\"Zn\")]", "input_token_count": 572, "output_token_count": 24, "latency": 0.45113515853881836}
+{"id": "Mindat_v1_209", "result": "[mindat_geomaterial(ima=True, crystal_system=[\"Trigonal\"], el_inc=\"Fe,Cu\")]", "input_token_count": 570, "output_token_count": 23, "latency": 0.4496331214904785}
+{"id": "Mindat_v1_210", "result": "[mindat_geomaterial(ima=True, hardness_min=6, el_exc=\"Pb\")]", "input_token_count": 577, "output_token_count": 20, "latency": 0.5252478122711182}
+{"id": "Mindat_v1_211", "result": "[mindat_geomaterial(ima=True, hardness_min=5.0, el_exc=\"Cu\")]", "input_token_count": 581, "output_token_count": 22, "latency": 0.6225481033325195}
+{"id": "Mindat_v1_212", "result": "[mindat_geomaterial(ima=True, hardness_min=8.01, el_exc=\"Ca\")]", "input_token_count": 579, "output_token_count": 22, "latency": 0.5087060928344727}
+{"id": "Mindat_v1_213", "result": "[mindat_geomaterial(ima=True, hardness_min=3.5, el_exc=\"S\")]", "input_token_count": 578, "output_token_count": 22, "latency": 0.538477897644043}
+{"id": "Mindat_v1_214", "result": "[mindat_geomaterial(ima=True, hardness_min=7, el_exc=\"As\")]", "input_token_count": 583, "output_token_count": 20, "latency": 0.42729902267456055}
+{"id": "Mindat_v1_215", "result": "[mindat_geomaterial(ima=True, hardness_min=7, el_exc=\"Mg\")]", "input_token_count": 571, "output_token_count": 20, "latency": 0.511937141418457}
+{"id": "Mindat_v1_216", "result": "[mindat_geomaterial(ima=True, hardness_min=5.0, el_exc=\"Cl\")]", "input_token_count": 572, "output_token_count": 22, "latency": 0.4747467041015625}
+{"id": "Mindat_v1_217", "result": "[mindat_geomaterial(ima=True, hardness_min=6, el_exc=\"Zn\")]", "input_token_count": 574, "output_token_count": 20, "latency": 0.5346200466156006}
+{"id": "Mindat_v1_218", "result": "[mindat_geomaterial(ima=True, hardness_min=3, el_exc=\"S\")]", "input_token_count": 573, "output_token_count": 20, "latency": 0.48369312286376953}
+{"id": "Mindat_v1_219", "result": "[mindat_geomaterial(ima=True, hardness_min=2.01, el_exc=\"Al\")]", "input_token_count": 575, "output_token_count": 22, "latency": 0.5348238945007324}
+{"id": "Mindat_v1_220", "result": "[mindat_geomaterial(ima=True, hardness_min=3.01, el_exc=\"Zn\")]", "input_token_count": 573, "output_token_count": 22, "latency": 0.570504903793335}
+{"id": "Mindat_v1_221", "result": "[mindat_geomaterial(ima=True, hardness_min=6.0, el_exc=\"Cl\")]", "input_token_count": 575, "output_token_count": 22, "latency": 0.5211808681488037}
+{"id": "Mindat_v1_222", "result": "[mindat_geomaterial(ima=True, hardness_min=7, el_exc=\"Mg\")]", "input_token_count": 575, "output_token_count": 20, "latency": 0.4111948013305664}
+{"id": "Mindat_v1_223", "result": "[mindat_geomaterial(ima=True, hardness_min=5, el_exc=\"Ni\")]", "input_token_count": 574, "output_token_count": 20, "latency": 0.4197869300842285}
+{"id": "Mindat_v1_225", "result": "[mindat_geomaterial(ima=True, el_inc=\"Ti\", el_exc=\"V\")]", "input_token_count": 572, "output_token_count": 20, "latency": 0.5764849185943604}
+{"id": "Mindat_v1_226", "result": "[mindat_geomaterial(ima=True, el_inc=\"Li\", el_exc=\"Mn\")]", "input_token_count": 569, "output_token_count": 20, "latency": 0.46578502655029297}
+{"id": "Mindat_v1_227", "result": "[mindat_geomaterial(ima=True, el_inc=\"Cu\", el_exc=\"Ag\")]", "input_token_count": 572, "output_token_count": 20, "latency": 0.504913330078125}
+{"id": "Mindat_v1_228", "result": "[mindat_geomaterial(ima=True, el_inc=\"Cr\", el_exc=\"Ni,Co\")]", "input_token_count": 573, "output_token_count": 22, "latency": 0.47069311141967773}
+{"id": "Mindat_v1_229", "result": "[mindat_geomaterial(ima=True, el_inc=\"B\", el_exc=\"Fe\")]", "input_token_count": 573, "output_token_count": 20, "latency": 0.47788286209106445}
+{"id": "Mindat_v1_230", "result": "[mindat_geomaterial(ima=True, el_inc=\"Mn\", el_exc=\"Fe\")]", "input_token_count": 572, "output_token_count": 20, "latency": 0.6282749176025391}
+{"id": "Mindat_v1_231", "result": "[mindat_geomaterial(ima=True, el_inc=\"Au\", el_exc=\"Ag\")]", "input_token_count": 578, "output_token_count": 20, "latency": 0.891355037689209}
+{"id": "Mindat_v1_232", "result": "[mindat_geomaterial(ima=True, el_inc=\"Li\", el_exc=\"Na\")]", "input_token_count": 570, "output_token_count": 20, "latency": 0.5191218852996826}
+{"id": "Mindat_v1_233", "result": "[mindat_geomaterial(ima=True, el_inc=\"Zn\", el_exc=\"Cu\")]", "input_token_count": 571, "output_token_count": 20, "latency": 0.446897029876709}
+{"id": "Mindat_v1_234", "result": "[mindat_geomaterial(ima=True, el_inc=\"Ni\", el_exc=\"Co\")]", "input_token_count": 571, "output_token_count": 20, "latency": 0.4420280456542969}
+{"id": "Mindat_v1_235", "result": "[mindat_geomaterial(ima=True, el_inc=\"Mg\", el_exc=\"Ca\")]", "input_token_count": 571, "output_token_count": 20, "latency": 0.5040469169616699}
+{"id": "Mindat_v1_236", "result": "[mindat_geomaterial(ima=True, el_inc=\"Zn\", el_exc=\"Pb\")]", "input_token_count": 568, "output_token_count": 20, "latency": 0.6811528205871582}
+{"id": "Mindat_v1_237", "result": "[mindat_geomaterial(ima=True, el_inc=\"Ni\", el_exc=\"Co\")]", "input_token_count": 571, "output_token_count": 20, "latency": 0.41054701805114746}
+{"id": "Mindat_v1_238", "result": "[mindat_geomaterial(ima=True, el_inc=\"Al\", el_exc=\"Si\")]", "input_token_count": 570, "output_token_count": 20, "latency": 0.8225820064544678}
+{"id": "Mindat_v1_239", "result": "[mindat_geomaterial(ima=True, el_inc=\"Na\", el_exc=\"K\")]", "input_token_count": 570, "output_token_count": 20, "latency": 0.5882489681243896}
+{"id": "Mindat_v1_240", "result": "[mindat_geomaterial(ima=True, hardness_min=4.5, hardness_max=6, crystal_system=[\"Orthorhombic\", \"Monoclinic\"], el_inc=\"Ca,Mg\", el_exc=\"Pb\")]", "input_token_count": 605, "output_token_count": 49, "latency": 0.8748950958251953}
+{"id": "Mindat_v1_241", "result": "[mindat_geomaterial(ima=False, hardness_min=2, hardness_max=3.5, crystal_system=[\"Tetragonal\"], el_inc=\"Cu,Ag\", el_exc=\"As\")]", "input_token_count": 601, "output_token_count": 41, "latency": 0.706840991973877}
+{"id": "Mindat_v1_242", "result": "[mindat_geomaterial(ima=True, hardness_min=5, hardness_max=7, crystal_system=[\"Triclinic\"], el_inc=\"B,Li\", el_exc=\"F\")]", "input_token_count": 599, "output_token_count": 40, "latency": 0.7598750591278076}
+{"id": "Mindat_v1_243", "result": "[mindat_geomaterial(ima=True, hardness_min=1, hardness_max=2, crystal_system=[\"Amorphous\", \"Isometric\"], el_inc=\"Na\", el_exc=\"Hg\")]", "input_token_count": 596, "output_token_count": 41, "latency": 0.8690431118011475}
+{"id": "Mindat_v1_244", "result": "[mindat_geomaterial(ima=False, hardness_min=6, hardness_max=8, crystal_system=[\"Hexagonal\", \"Trigonal\"], el_inc=\"Fe,Co\", el_exc=\"Ni\")]", "input_token_count": 605, "output_token_count": 42, "latency": 0.5544939041137695}
+{"id": "Mindat_v1_245", "result": "[mindat_geomaterial(ima=True, hardness_min=4, hardness_max=7, crystal_system=[\"Monoclinic\"], el_inc=\"Mn\", el_exc=\"Ni\")]", "input_token_count": 591, "output_token_count": 38, "latency": 0.4965810775756836}
+{"id": "Mindat_v1_246", "result": "[mindat_geomaterial(ima=True, hardness_min=2, hardness_max=5, crystal_system=[\"Orthorhombic\"], el_inc=\"Cr\", el_exc=\"Zn\")]", "input_token_count": 589, "output_token_count": 39, "latency": 0.6339962482452393}
+{"id": "Mindat_v1_247", "result": "[mindat_geomaterial(ima=True, hardness_min=6, hardness_max=8, crystal_system=[\"Isometric\"], el_inc=\"Ag\", el_exc=\"As\")]", "input_token_count": 597, "output_token_count": 36, "latency": 0.5733740329742432}
+{"id": "Mindat_v1_248", "result": "[mindat_geomaterial(ima=True, hardness_min=1, hardness_max=3, crystal_system=[\"Tetragonal\"], el_inc=\"Li\", el_exc=\"F\")]", "input_token_count": 590, "output_token_count": 37, "latency": 0.444166898727417}
+{"id": "Mindat_v1_249", "result": "[mindat_geomaterial(ima=True, hardness_min=5, hardness_max=9, crystal_system=[\"Trigonal\", \"Hexagonal\"], el_inc=\"Cu\", el_exc=\"Hg\")]", "input_token_count": 589, "output_token_count": 40, "latency": 1.3883962631225586}
+{"id": "Mindat_v1_250", "result": "[mindat_geomaterial(ima=True, hardness_min=4.5, hardness_max=7, crystal_system=[\"Isometric\", \"Tetragonal\"], el_inc=\"Ca\", el_exc=\"Mg\")]", "input_token_count": 596, "output_token_count": 43, "latency": 0.4966137409210205}
+{"id": "Mindat_v1_251", "result": "[mindat_geomaterial(ima=True, hardness_min=2, hardness_max=6, crystal_system=[\"Hexagonal\"], el_inc=\"Zn\", el_exc=\"Pb\")]", "input_token_count": 589, "output_token_count": 36, "latency": 0.5619583129882812}
+{"id": "Mindat_v1_252", "result": "[mindat_geomaterial(ima=True, hardness_min=3.2, hardness_max=5.9, crystal_system=[\"Monoclinic\", \"Orthorhombic\"], el_inc=\"Li\", el_exc=\"Fe\")]", "input_token_count": 593, "output_token_count": 49, "latency": 0.5419089794158936}
+{"id": "Mindat_v1_253", "result": "[mindat_geomaterial(ima=True, hardness_min=1, hardness_max=2.5, crystal_system=[\"Triclinic\"], el_inc=\"Cu\", el_exc=\"Na\")]", "input_token_count": 591, "output_token_count": 40, "latency": 0.49544405937194824}
+{"id": "Mindat_v1_254", "result": "[mindat_geomaterial(ima=True, hardness_min=3, hardness_max=8, crystal_system=[\"Amorphous\"], el_inc=\"Si,S\", el_exc=\"Cl\")]", "input_token_count": 591, "output_token_count": 38, "latency": 0.4882161617279053}
+{"id": "Mindat_v1_255", "result": "[mindat_geomaterial(ima=True, el_inc=\"Fe,Ni\")]", "input_token_count": 573, "output_token_count": 17, "latency": 0.4883921146392822}
+{"id": "Mindat_v1_256", "result": "[mindat_geomaterial(ima=True, el_inc=\"Mg\", el_exc=\"Pb\")]", "input_token_count": 571, "output_token_count": 20, "latency": 0.7979531288146973}
+{"id": "Mindat_v1_257", "result": "[mindat_geomaterial(ima=True, el_inc=\"Si,O\")]", "input_token_count": 570, "output_token_count": 16, "latency": 0.44307708740234375}
+{"id": "Mindat_v1_258", "result": "[mindat_geomaterial(ima=True, el_inc=\"Cu\", el_exc=\"Zn\")]", "input_token_count": 572, "output_token_count": 20, "latency": 0.46935510635375977}
+{"id": "Mindat_v1_259", "result": "[mindat_geomaterial(ima=True, crystal_system=[\"Hexagonal\"], el_inc=\"Cr,Mn\")]", "input_token_count": 577, "output_token_count": 23, "latency": 0.4886941909790039}
+{"id": "Mindat_v1_260", "result": "[mindat_geomaterial(ima=True, el_inc=\"Fe,Ni\")]", "input_token_count": 572, "output_token_count": 17, "latency": 0.47400903701782227}
+{"id": "Mindat_v1_261", "result": "[mindat_geomaterial(ima=True, el_inc=\"Ag,Sn\")]", "input_token_count": 574, "output_token_count": 17, "latency": 0.4763760566711426}
+{"id": "Mindat_v1_262", "result": "[mindat_geomaterial(ima=True, el_inc=\"Al,Mg\")]", "input_token_count": 575, "output_token_count": 17, "latency": 0.47600317001342773}
+{"id": "Mindat_v1_263", "result": "[mindat_geomaterial(ima=True, el_inc=\"Pb\", el_exc=\"Zn\")]", "input_token_count": 571, "output_token_count": 20, "latency": 0.5895838737487793}
+{"id": "Mindat_v1_264", "result": "[mindat_geomaterial(ima=True, el_inc=\"Ca,K\")]", "input_token_count": 572, "output_token_count": 16, "latency": 0.4066121578216553}
+{"id": "Mindat_v1_265", "result": "[mindat_geomaterial(ima=True, hardness_min=6, el_inc=\"Fe,Cu\")]", "input_token_count": 576, "output_token_count": 22, "latency": 0.4636108875274658}
+{"id": "Mindat_v1_266", "result": "[mindat_geomaterial(ima=True, crystal_system=[\"Orthorhombic\"], el_inc=\"Na,Mg\")]", "input_token_count": 576, "output_token_count": 26, "latency": 0.5098721981048584}
+{"id": "Mindat_v1_267", "result": "[mindat_geomaterial(ima=True, hardness_min=3, el_inc=\"Pb\", el_exc=\"Hg\")]", "input_token_count": 574, "output_token_count": 25, "latency": 0.508782148361206}
+{"id": "Mindat_v1_268", "result": "[mindat_geomaterial(ima=True, el_inc=\"Al,Si\", crystal_system=[\"Trigonal\"])]", "input_token_count": 575, "output_token_count": 24, "latency": 0.4997379779815674}
+{"id": "Mindat_v1_269", "result": "[mindat_geomaterial(ima=True, el_inc=\"Ca,Zn\", el_exc=\"P\")]", "input_token_count": 574, "output_token_count": 22, "latency": 0.5376098155975342}

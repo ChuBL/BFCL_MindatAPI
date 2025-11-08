@@ -127,7 +127,6 @@
 {"id": "Mindat_v1_127", "result": "[mindat_geomaterial(ima=True, el_inc=\"Mg,Si\")]", "input_token_count": 0, "output_token_count": 0, "latency": 0}
 {"id": "Mindat_v1_128", "result": "[mindat_geomaterial(ima=True, el_inc=\"Ca\", el_exc=\"Al\")]", "input_token_count": 0, "output_token_count": 0, "latency": 0}
 {"id": "Mindat_v1_129", "result": "[mindat_geomaterial(ima=True, el_inc=\"Ag,Cu\")]", "input_token_count": 0, "output_token_count": 0, "latency": 0}
-{"id": "Mindat_v1_130", "result": "[mindat_geomaterial(ima=True, hardness_min=7.0, el_inc=\"Cu,Fe\")]", "input_token_count": 0, "output_token_count": 0, "latency": 0}
 {"id": "Mindat_v1_131", "result": "[mindat_geomaterial(ima=True, hardness_min=2.0, hardness_max=6.0, el_inc=\"Fe\", el_exc=\"Zn\")]", "input_token_count": 0, "output_token_count": 0, "latency": 0}
 {"id": "Mindat_v1_133", "result": "[mindat_geomaterial(ima=True, hardness_max=4.0, el_inc=\"Mn\", el_exc=\"Pb\")]", "input_token_count": 0, "output_token_count": 0, "latency": 0}
 {"id": "Mindat_v1_134", "result": "[mindat_geomaterial(ima=True, crystal_system=[\"Trigonal\"], el_inc=\"Al,Fe\")]", "input_token_count": 0, "output_token_count": 0, "latency": 0}
