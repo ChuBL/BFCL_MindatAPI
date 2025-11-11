@@ -1,0 +1,73 @@
+{"id": "Mindat_v1_irrelevance_118", "ground_truth": [{"mindat_geomaterial": {"el_inc": ["Co,V"], "hardness_max": [8.0], "hardness_min": [6.0], "ima": [true]}}]}
+{"id": "Mindat_v1_irrelevance_30", "ground_truth": [{"mindat_geomaterial": {"ima": [true]}}]}
+{"id": "Mindat_v1_irrelevance_10", "ground_truth": [{"mindat_geomaterial": {"ima": [true]}}]}
+{"id": "Mindat_v1_irrelevance_57", "ground_truth": [{"mindat_geomaterial": {"crystal_system": [["Tetragonal"]], "el_inc": ["Cu,Fe"], "ima": [true]}}]}
+{"id": "Mindat_v1_irrelevance_97", "ground_truth": [{"mindat_geomaterial": {"el_exc": ["Ag,Au"], "ima": [true]}}]}
+{"id": "Mindat_v1_irrelevance_11", "ground_truth": [{"mindat_geomaterial": {"ima": [true]}}]}
+{"id": "Mindat_v1_irrelevance_58", "ground_truth": [{"mindat_geomaterial": {"hardness_min": [4.0], "ima": [true]}}]}
+{"id": "Mindat_v1_irrelevance_98", "ground_truth": [{"mindat_geomaterial": {"el_inc": ["Ca,Fe,Zn"], "ima": [true]}}]}
+{"id": "Mindat_v1_irrelevance_120", "ground_truth": [{"mindat_geomaterial": {"crystal_system": [["Isometric"]], "ima": [true]}}]}
+{"id": "Mindat_v1_irrelevance_12", "ground_truth": [{"mindat_geomaterial": {"hardness_min": [3.0], "ima": [true]}}]}
+{"id": "Mindat_v1_irrelevance_59", "ground_truth": [{"mindat_geomaterial": {"crystal_system": [["Trigonal"]], "hardness_max": [7.0], "hardness_min": [2.0], "ima": [true]}}]}
+{"id": "Mindat_v1_irrelevance_99", "ground_truth": [{"mindat_geomaterial": {"el_exc": ["S"], "ima": [true]}}]}
+{"id": "Mindat_v1_irrelevance_96", "ground_truth": [{"mindat_geomaterial": {"el_exc": ["Cu,Fe"], "ima": [true]}}]}
+{"id": "Mindat_v1_irrelevance_34", "ground_truth": [{"mindat_geomaterial": {"ima": [true]}}]}
+{"id": "Mindat_v1_irrelevance_13", "ground_truth": [{"mindat_geomaterial": {"ima": [true]}}]}
+{"id": "Mindat_v1_irrelevance_100", "ground_truth": [{"mindat_geomaterial": {"crystal_system": [["Isometric"]], "el_inc": ["Fe"], "ima": [true]}}]}
+{"id": "Mindat_v1_irrelevance_123", "ground_truth": [{"mindat_geomaterial": {"el_exc": ["O"], "ima": [true]}}]}
+{"id": "Mindat_v1_irrelevance_101", "ground_truth": [{"mindat_geomaterial": {"el_exc": ["Ag,Au"], "ima": [true]}}]}
+{"id": "Mindat_v1_irrelevance_124", "ground_truth": [{"mindat_geomaterial": {"crystal_system": [["Orthorhombic"]], "ima": [true]}}]}
+{"id": "Mindat_v1_irrelevance_62", "ground_truth": [{"mindat_geomaterial": {"el_inc": ["Cu"], "hardness_max": [9.0], "hardness_min": [5.0], "ima": [true]}}]}
+{"id": "Mindat_v1_irrelevance_102", "ground_truth": [{"mindat_geomaterial": {"el_inc": ["Fe,Zn"], "ima": [true]}}]}
+{"id": "Mindat_v1_irrelevance_37", "ground_truth": [{"mindat_geomaterial": {"ima": [true]}}]}
+{"id": "Mindat_v1_irrelevance_125", "ground_truth": [{"mindat_geomaterial": {"crystal_system": [["Isometric"]], "ima": [true]}}]}
+{"id": "Mindat_v1_irrelevance_63", "ground_truth": [{"mindat_geomaterial": {"crystal_system": [["Trigonal"]], "el_exc": ["Au,Y"], "ima": [true]}}]}
+{"id": "Mindat_v1_irrelevance_103", "ground_truth": [{"mindat_geomaterial": {"crystal_system": [["Triclinic"]], "ima": [true]}}]}
+{"id": "Mindat_v1_irrelevance_127", "ground_truth": [{"mindat_geomaterial": {"el_exc": ["O"], "ima": [true]}}]}
+{"id": "Mindat_v1_irrelevance_104", "ground_truth": [{"mindat_geomaterial": {"el_exc": ["S"], "hardness_min": [5.0], "ima": [true]}}]}
+{"id": "Mindat_v1_irrelevance_40", "ground_truth": [{"mindat_geomaterial": {"ima": [true]}}]}
+{"id": "Mindat_v1_irrelevance_128", "ground_truth": [{"mindat_geomaterial": {"el_inc": ["S"], "ima": [true]}}]}
+{"id": "Mindat_v1_irrelevance_169", "ground_truth": [{"mindat_geomaterial": {"el_exc": ["Ag"], "el_inc": ["Mo"], "ima": [true]}}]}
+{"id": "Mindat_v1_irrelevance_85", "ground_truth": [{"mindat_geomaterial": {"el_exc": ["Fe"], "ima": [true]}}]}
+{"id": "Mindat_v1_irrelevance_130", "ground_truth": [{"mindat_geomaterial": {"crystal_system": [["Isometric"]], "hardness_min": [7.0], "ima": [true]}}]}
+{"id": "Mindat_v1_irrelevance_106", "ground_truth": [{"mindat_geomaterial": {"hardness_max": [2.0], "ima": [true]}}]}
+{"id": "Mindat_v1_irrelevance_42", "ground_truth": [{"mindat_geomaterial": {"ima": [true]}}]}
+{"id": "Mindat_v1_irrelevance_131", "ground_truth": [{"mindat_geomaterial": {"el_inc": ["Fe,Zn"], "ima": [true]}}]}
+{"id": "Mindat_v1_irrelevance_152", "ground_truth": [{"mindat_geomaterial": {"el_exc": ["Ag"], "ima": [true]}}]}
+{"id": "Mindat_v1_irrelevance_132", "ground_truth": [{"mindat_geomaterial": {"el_exc": ["N,O"], "ima": [true]}}]}
+{"id": "Mindat_v1_irrelevance_68", "ground_truth": [{"mindat_geomaterial": {"el_exc": ["Au,Y"], "ima": [true]}}]}
+{"id": "Mindat_v1_irrelevance_108", "ground_truth": [{"mindat_geomaterial": {"ima": [true]}}]}
+{"id": "Mindat_v1_irrelevance_1", "ground_truth": [{"mindat_geomaterial": {"ima": [true]}}]}
+{"id": "Mindat_v1_irrelevance_44", "ground_truth": [{"mindat_geomaterial": {"ima": [true]}}]}
+{"id": "Mindat_v1_irrelevance_133", "ground_truth": [{"mindat_geomaterial": {"crystal_system": [["Orthorhombic"]], "hardness_min": [7.0], "ima": [true]}}]}
+{"id": "Mindat_v1_irrelevance_2", "ground_truth": [{"mindat_geomaterial": {"ima": [true]}}]}
+{"id": "Mindat_v1_irrelevance_110", "ground_truth": [{"mindat_geomaterial": {"hardness_max": [2.0], "ima": [true]}}]}
+{"id": "Mindat_v1_irrelevance_89", "ground_truth": [{"mindat_geomaterial": {"el_exc": ["Fe"], "ima": [true]}}]}
+{"id": "Mindat_v1_irrelevance_134", "ground_truth": [{"mindat_geomaterial": {"el_inc": ["Ag"], "ima": [true]}}]}
+{"id": "Mindat_v1_irrelevance_46", "ground_truth": [{"mindat_geomaterial": {"el_inc": ["Ag,Cu"], "ima": [true]}}]}
+{"id": "Mindat_v1_irrelevance_3", "ground_truth": [{"mindat_geomaterial": {"crystal_system": [["Isometric"]], "ima": [true]}}]}
+{"id": "Mindat_v1_irrelevance_48", "ground_truth": [{"mindat_geomaterial": {"crystal_system": [["Tetragonal"]], "ima": [true]}}]}
+{"id": "Mindat_v1_irrelevance_90", "ground_truth": [{"mindat_geomaterial": {"crystal_system": [["Isometric"]], "el_inc": ["Fe"], "ima": [true]}}]}
+{"id": "Mindat_v1_irrelevance_49", "ground_truth": [{"mindat_geomaterial": {"hardness_max": [6.0], "hardness_min": [3.0], "ima": [true]}}]}
+{"id": "Mindat_v1_irrelevance_91", "ground_truth": [{"mindat_geomaterial": {"el_inc": ["Ca,Fe,Zn"], "ima": [true]}}]}
+{"id": "Mindat_v1_irrelevance_72", "ground_truth": [{"mindat_geomaterial": {"crystal_system": [["Triclinic"]], "el_inc": ["Cu,Fe"], "hardness_max": [7.0], "ima": [true]}}]}
+{"id": "Mindat_v1_irrelevance_114", "ground_truth": [{"mindat_geomaterial": {"el_inc": ["Au"], "ima": [true]}}]}
+{"id": "Mindat_v1_irrelevance_5", "ground_truth": [{"mindat_geomaterial": {"ima": [true]}}]}
+{"id": "Mindat_v1_irrelevance_51", "ground_truth": [{"mindat_geomaterial": {"el_inc": ["Fe"], "ima": [true]}}]}
+{"id": "Mindat_v1_irrelevance_92", "ground_truth": [{"mindat_geomaterial": {"el_exc": ["Ag,Au"], "ima": [true]}}]}
+{"id": "Mindat_v1_irrelevance_177", "ground_truth": [{"mindat_geomaterial": {"el_exc": ["Fe"], "el_inc": ["F"], "ima": [true]}}]}
+{"id": "Mindat_v1_irrelevance_27", "ground_truth": [{"mindat_geomaterial": {"hardness_max": [3.0], "ima": [true]}}]}
+{"id": "Mindat_v1_irrelevance_9", "ground_truth": [{"mindat_geomaterial": {"ima": [true]}}]}
+{"id": "Mindat_v1_irrelevance_6", "ground_truth": [{"mindat_geomaterial": {"ima": [true]}}]}
+{"id": "Mindat_v1_irrelevance_52", "ground_truth": [{"mindat_geomaterial": {"crystal_system": [["Tetragonal"]], "el_exc": ["Pb"], "ima": [true]}}]}
+{"id": "Mindat_v1_irrelevance_93", "ground_truth": [{"mindat_geomaterial": {"el_exc": ["S"], "hardness_min": [5.0], "ima": [true]}}]}
+{"id": "Mindat_v1_irrelevance_116", "ground_truth": [{"mindat_geomaterial": {"ima": [true]}}]}
+{"id": "Mindat_v1_irrelevance_7", "ground_truth": [{"mindat_geomaterial": {"ima": [true]}}]}
+{"id": "Mindat_v1_irrelevance_54", "ground_truth": [{"mindat_geomaterial": {"hardness_max": [5.0], "ima": [true]}}]}
+{"id": "Mindat_v1_irrelevance_94", "ground_truth": [{"mindat_geomaterial": {"crystal_system": [["Amorphous", "Hexagonal", "Icosahedral", "Isometric", "Orthorhombic", "Tetragonal", "Triclinic", "Trigonal"]], "el_exc": ["Pb"], "ima": [true]}}]}
+{"id": "Mindat_v1_irrelevance_8", "ground_truth": [{"mindat_geomaterial": {"hardness_min": [5.0], "ima": [true]}}]}
+{"id": "Mindat_v1_irrelevance_55", "ground_truth": [{"mindat_geomaterial": {"crystal_system": [["Isometric"]], "hardness_min": [5.0], "ima": [true]}}]}
+{"id": "Mindat_v1_irrelevance_95", "ground_truth": [{"mindat_geomaterial": {"crystal_system": [["Isometric"]], "ima": [true]}}]}
+{"id": "Mindat_v1_irrelevance_56", "ground_truth": [{"mindat_geomaterial": {"crystal_system": [["Orthorhombic", "Tetragonal"]], "hardness_min": [3.0], "ima": [true]}}]}
+{"id": "Mindat_v1_irrelevance_4", "ground_truth": [{"mindat_geomaterial": {"el_inc": ["P"], "ima": [true]}}]}
+{"id": "Mindat_v1_irrelevance_122", "ground_truth": [{"mindat_geomaterial": {"ima": [true]}}]}

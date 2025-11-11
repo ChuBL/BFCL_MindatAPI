@@ -1,0 +1,15 @@
+{"id": "Mindat_v1_irrelevance_55", "ground_truth": [{"mindat_geomaterial": {"crystal_system": [["Isometric"]], "hardness_min": [5.0], "ima": [true]}}]}
+{"id": "Mindat_v1_irrelevance_57", "ground_truth": [{"mindat_geomaterial": {"crystal_system": [["Tetragonal"]], "el_inc": ["Cu,Fe"], "ima": [true]}}]}
+{"id": "Mindat_v1_irrelevance_59", "ground_truth": [{"mindat_geomaterial": {"crystal_system": [["Trigonal"]], "hardness_max": [7.0], "hardness_min": [2.0], "ima": [true]}}]}
+{"id": "Mindat_v1_irrelevance_90", "ground_truth": [{"mindat_geomaterial": {"crystal_system": [["Isometric"]], "el_inc": ["Fe"], "ima": [true]}}]}
+{"id": "Mindat_v1_irrelevance_92", "ground_truth": [{"mindat_geomaterial": {"el_exc": ["Ag,Au"], "ima": [true]}}]}
+{"id": "Mindat_v1_irrelevance_94", "ground_truth": [{"mindat_geomaterial": {"crystal_system": [["Amorphous", "Hexagonal", "Icosahedral", "Isometric", "Orthorhombic", "Tetragonal", "Triclinic", "Trigonal"]], "el_exc": ["Pb"], "ima": [true]}}]}
+{"id": "Mindat_v1_irrelevance_95", "ground_truth": [{"mindat_geomaterial": {"crystal_system": [["Isometric"]], "ima": [true]}}]}
+{"id": "Mindat_v1_irrelevance_97", "ground_truth": [{"mindat_geomaterial": {"el_exc": ["Ag,Au"], "ima": [true]}}]}
+{"id": "Mindat_v1_irrelevance_98", "ground_truth": [{"mindat_geomaterial": {"el_inc": ["Ca,Fe,Zn"], "ima": [true]}}]}
+{"id": "Mindat_v1_irrelevance_100", "ground_truth": [{"mindat_geomaterial": {"crystal_system": [["Isometric"]], "el_inc": ["Fe"], "ima": [true]}}]}
+{"id": "Mindat_v1_irrelevance_101", "ground_truth": [{"mindat_geomaterial": {"el_exc": ["Ag,Au"], "ima": [true]}}]}
+{"id": "Mindat_v1_irrelevance_103", "ground_truth": [{"mindat_geomaterial": {"crystal_system": [["Triclinic"]], "ima": [true]}}]}
+{"id": "Mindat_v1_irrelevance_118", "ground_truth": [{"mindat_geomaterial": {"el_inc": ["Co,V"], "hardness_max": [8.0], "hardness_min": [6.0], "ima": [true]}}]}
+{"id": "Mindat_v1_irrelevance_133", "ground_truth": [{"mindat_geomaterial": {"crystal_system": [["Orthorhombic"]], "hardness_min": [7.0], "ima": [true]}}]}
+{"id": "Mindat_v1_irrelevance_8", "ground_truth": [{"mindat_geomaterial": {"hardness_min": [5.0], "ima": [true]}}]}
